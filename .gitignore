@@ -1,0 +1,6 @@
+.idea
+kube-eventer 
+*.exe
+.git 
+coverage.txt
+.DS_Store
